@@ -66,11 +66,11 @@ Atuei como **Desenvolvedor**, Trabalhando na integração entre o front end e ba
 
 ### ![Hard Skills Icon](https://img.shields.io/badge/-Hard%20Skills-2ECC71?style=flat&logo=skillshare&logoColor=white)
 
-- ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat) **Python**: Fiz a lógica do sistema responsável pela comunicação entre o framework atuante no back end(Flask) e o front end(HTML / JavaScript).
-- ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat) **Flask**: Configuração das rotas para as requisições no backend e disponibilidade das informações para a pagina front end da aplicação.
-- ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat) **MySQL**: Ajuste da lógica do banco de dados para atender as requisições feitas pelo front end da aplicação.
-- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat) **HTML/CSS/Bootstrap**: Fiz os ajustes finais para o design do front end da aplicação acomodar os dados vindos pelo servidor do banco de dados.
-- ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat) **Git**: Tive parte no versionamento dos códigos e auxilio em merges de branchs.
+- ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat) **Python**: Fiz a lógica do sistema responsável pela comunicação entre o framework atuante no back end(Flask) e o front end(HTML / JavaScript). (Faço/uso com autonomia)
+- ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat) **Flask**: Configuração das rotas para as requisições no backend e disponibilidade das informações para a pagina front end da aplicação. (Faço/uso com autonomia)
+- ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat) **MySQL**: Ajuste da lógica do banco de dados para atender as requisições feitas pelo front end da aplicação. (Faço/uso com autonomia)
+- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat) **HTML/CSS/Bootstrap**: Fiz os ajustes finais para o design do front end da aplicação acomodar os dados vindos pelo servidor do banco de dados. (Faço/uso com autonomia)
+- ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat) **Git**: Tive parte no versionamento dos códigos e auxilio em merges de branchs. (Faço/uso com autonomia)
 
 ---
 
