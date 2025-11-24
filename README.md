@@ -1,57 +1,45 @@
-### Terceiro Semestre (2023-2)
+### Quarto Semestre (2024-1)
 
-# Plataforma Web para Gestão de Processos Regulatórios
+# Sistema Web para Gerenciamento de Salas e Agendamentos
 
 ## Descrição do Projeto
-**Semestre:** Terceiro Semestre – 2023-2  
-
-**Empresa Parceira: [IONIC HEALTH]**  
-**Ramo de atuação:** *É uma empresa brasileira de inovação em saúde, especializada em automação e integração aplicada, com foco em imagens médicas, qualidade e eficiência no setor de saúde.*   
-
-**Professor responsável:** **[Fernando Masanori]**
+**Semestre:** Quarto Semestre – 2024-1  
+**Empresa Parceira:** **[SIAT]**   
+**Área de Atuação:** A empresa atua na integração de sistemas tecnológicos para os setores de defesa e aeroespacial, com foco em armamentos inteligentes, radares, sensores e sistemas aviônicos.   
+**Professor responsável:** **Juliana Pasquini**
 
 ---
 
 ### ![Problem Icon](https://img.shields.io/badge/-Problema-E74C3C?style=flat&logo=issue-tracking&logoColor=white)
 
-A empresa enfrentava dificuldade em acompanhar e organizar processos regulatórios de forma centralizada. Documentos frequentemente eram perdidos, prazos não cumpridos e a falta de relatórios dificultava a análise de desempenho. Além disso, não havia um sistema que permitisse personalização conforme os fluxos de trabalho específicos de cada equipe.
+A empresa **SIAT** enfrentava dificuldades na gestão do uso de suas salas de reunião, o que resultava em conflitos de agendamento e falhas na comunicação entre os usuários e administradores. O objetivo do projeto era criar um sistema centralizado e eficiente para o agendamento e gerenciamento das salas, integrando uma interface intuitiva e um backend robusto que garantisse a escalabilidade e confiabilidade do sistema.
 
 ---
 
 ### ![Solution Icon](https://img.shields.io/badge/-Solução-27AE60?style=flat&logo=solution&logoColor=white)
 
-Desenvolvemos uma **plataforma web** que resolve esses problemas com funcionalidades como:
+A equipe desenvolveu uma **plataforma web** utilizando **Next.js** e **Vite** para o frontend, com foco em desempenho e usabilidade. **Node.js** e **MySQL** foram utilizados no backend para gerenciar o banco de dados e as APIs RESTful. A interface foi criada com **Material UI** para garantir um design moderno e responsivo. Além disso, foram implementadas funcionalidades de autenticação com **JWT** e envio de notificações de reserva utilizando **NodeMailer**. O sistema também conta com gráficos de acompanhamento de uso das salas, integrados com **Chart.js**.
 
-- Gerenciamento de processos com etapas personalizáveis.
-- Monitoramento em tempo real e relatórios automáticos.
-- Notificações para prazos e eventos importantes.
-- Interface responsiva planejada no **Figma**, garantindo usabilidade.
-
-Uma modelagem robusta em **MySQL** e a implementação de APIs RESTful em **Node.js** suportam a escalabilidade do sistema.
 ---
 
 ### **Imagens do Sistema**
 #### **[Demonstração do projeto em execução]**
 
 <p align="center">
-  <img src="https://github.com/Equipe-FULLSTACK/API-3/raw/main/readme/home.png" alt="Página Principal" width="800" height="400">
+  <img src="https://github.com/Equipe-FULLSTACK/API-4/assets/112169854/46f04ee0-016f-4506-a19f-46cf2ee9afcf" alt="Página de Login" width="800" height="400">
   <br>
   <details>
-    <summary> Demais imagens da aplicação </summary>
-    <img src="https://github.com/Equipe-FULLSTACK/API-3/raw/main/readme/autentic.png" alt="Tela de Autenticação" width="800" height="400">
-    <br>
-    <img src="https://github.com/Equipe-FULLSTACK/API-3/raw/main/readme/processos.png" alt="Gerenciamento de Processos" width="800" height="400">
-    <br>
-    <img src="https://github.com/Equipe-FULLSTACK/API-3/raw/main/readme/task.png" alt="Tarefas" width="800" height="400">
-    <br>
-    <img src="https://github.com/Equipe-FULLSTACK/API-3/raw/main/readme/adminFinal.png" alt="Painel do Administrador" width="800" height="400">
-  </details>
+   <summary>Mostrar imagens do sistema</summary>
+   <img src="https://github.com/Equipe-FULLSTACK/API-4/assets/112169854/0652e4a0-8401-4781-a275-8791dd6df4e8" alt="Tela de Usuários" width="800" height="400">
+   <br>
+   <img src="https://github.com/Equipe-FULLSTACK/API-4/assets/112169854/af972abc-fa51-4e6d-9d48-9312a2426a3a" alt="Gerenciamento de Usuários" width="800" height="400">
+   </details>
 </p>
 
 ---
 
 ### **Link do Repositório Git**  
-<a href="https://github.com/Equipe-FULLSTACK/API-3" target="_blank">
+<a href="https://github.com/Equipe-FULLSTACK/API-4" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square" alt="GitHub link">
 </a>
 
@@ -59,33 +47,34 @@ Uma modelagem robusta em **MySQL** e a implementação de APIs RESTful em **Node
 
 ### ![Tech Icon](https://img.shields.io/badge/-Tecnologias%20Utilizadas-3498DB?style=flat&logo=stackshare&logoColor=white)
 
-- ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat) **React com TypeScript:** Utilizado para o desenvolvimento do frontend com componentes dinâmicos e responsivos.
-- ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat) **Node.js:** Backend com **Express** para criação de APIs RESTful e lógica de negócio.
-- ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat) **MySQL:** Banco de dados relacional utilizado para armazenamento de informações sobre os processos.
-- ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat) **Figma:** Utilizado para prototipagem e design de interface seguindo princípios de **UI/UX design**.
-- ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=flat) **Express:** Framework para lidar com rotas e middleware no backend.
-- ![JWT](https://img.shields.io/badge/-JWT-000000?logo=json-web-tokens&logoColor=white&style=flat) **JWT:** Utilizado para autenticação segura dos usuários.
+- ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat) **Next.js:** Framework utilizado para o desenvolvimento do frontend com foco em SSR (Server-Side Rendering) e SSG (Static Site Generation).
+- ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&style=flat) **Vite:** Utilizado para melhorar o desempenho no desenvolvimento frontend.
+- ![Material UI](https://img.shields.io/badge/-Material--UI-0081CB?logo=material-ui&logoColor=white&style=flat) **Material UI:** Framework utilizado para criar uma interface de usuário moderna e responsiva.
+- ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat) **Node.js:** Backend utilizando **Express** para criar APIs RESTful e lógica de negócio.
+- ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat) **MySQL:** Banco de dados relacional utilizado para armazenar informações sobre os usuários, salas e agendamentos.
+- ![Chart.js](https://img.shields.io/badge/-Chart.js-FF6384?logo=chart.js&logoColor=white&style=flat) **Chart.js:** Utilizado para gerar gráficos de acompanhamento de uso das salas.
+- ![NodeMailer](https://img.shields.io/badge/-NodeMailer-52C41A?logo=mailchimp&logoColor=white&style=flat) **NodeMailer:** Utilizado para envio de notificações de reserva via e-mail.
 
 ---
 
 ### ![Contribution Icon](https://img.shields.io/badge/-Contribuições%20Pessoais-F39C12?style=flat&logo=contribution&logoColor=white)
 
-Atuei como **Desenvolvedor**, contribuindo tanto para o frontend quanto para o backend. Minhas principais contribuições incluem:
+Atuei como **desenvolvedor**, contribuindo tanto para o frontend quanto para o backend. Minhas principais contribuições incluem:
 
-- Desenvolvimento do frontend utilizando **React com TypeScript**, criando componentes responsivos e interativos.
-- Implementação das APIs RESTful com **Node.js** e **Express** para o gerenciamento de processos e integração com o banco de dados **MySQL**.
-- Design de interface e prototipagem no **Figma**, seguindo boas práticas de **UI/UX**.
-- Implementação de autenticação segura com **JWT** e gerenciamento de sessão.
-- **Modelagem do banco de dados** em **MySQL** para garantir a integridade dos dados e a escalabilidade do sistema.
+- Integração dos sistemas front end e back end
+- Desenvolvimento das rotas no servidor back end para comunicação com o front end da aplicação utilizando **Node.js**.
+- Criação da lógica de envio de requisições pelo front end da aplicação para o servidor back end utilizando **Vite+React**.
+- Desenvolvimento e configuração de gráficos interativos com **Chart.js**.
+- Manutenção do sistema de disparo de e-mails utilizando **NodeMailer**.
 
 ---
 
 ### ![Hard Skills Icon](https://img.shields.io/badge/-Hard%20Skills-2ECC71?style=flat&logo=skillshare&logoColor=white)
 
-- ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat) **React com TypeScript**: Integração na parte front end da aplicação para tratamento de requisições ao back end.
-- ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat) **Node.js**: Desenvolvimento da lógica para as rotas do servidor back end enviarem e receberem as informações solicitadas pelo front end da aplicação.
-- ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat) **MySQL**: Tratamento das queries do banco de dados para otimizar os dados requisitados pela aplicação.
-- ![JWT](https://img.shields.io/badge/-JWT-000000?logo=json-web-tokens&logoColor=white&style=flat) **JWT**: Manutenção dos códigos para autenticação do usuário e durabilidade do token de acesso para a sessão.
+- ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat) **Node.js**: Desenvolvimento das rotas de comunicação com o frontend e comunicação com o banco de dados. 
+- ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat) **MySQL**: Modelagem de queries para otimização dos dados enviados do servidor back end ao front end.
+- ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&style=flat) **Vite+React**: Desenvolvimento da lógica para envio de requisições ao back end e desenvolvimento de como as informações requisitadas retornariam para a visualização do usuário.
+- ![NodeMailer](https://img.shields.io/badge/-NodeMailer-52C41A?logo=mailchimp&logoColor=white&style=flat) **NodeMailer**: Correção de erros de envio ao final do processo de agendamento de novas atividades onde seriam disparados emails aos usuários relacionados à tal atividade..
 
 ---
 
