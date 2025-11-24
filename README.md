@@ -82,10 +82,10 @@ Atuei como **Desenvolvedor**, contribuindo tanto para o frontend quanto para o b
 
 ### ![Hard Skills Icon](https://img.shields.io/badge/-Hard%20Skills-2ECC71?style=flat&logo=skillshare&logoColor=white)
 
-- ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat) **React com TypeScript**: Integração na parte front end da aplicação para tratamento de requisições ao back end.
-- ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat) **Node.js**: Desenvolvimento da lógica para as rotas do servidor back end enviarem e receberem as informações solicitadas pelo front end da aplicação.
-- ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat) **MySQL**: Tratamento das queries do banco de dados para otimizar os dados requisitados pela aplicação.
-- ![JWT](https://img.shields.io/badge/-JWT-000000?logo=json-web-tokens&logoColor=white&style=flat) **JWT**: Manutenção dos códigos para autenticação do usuário e durabilidade do token de acesso para a sessão.
+- ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat) **React com TypeScript**: Integração na parte front end da aplicação para tratamento de requisições ao back end. (Faço/uso com autonomia)
+- ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat) **Node.js**: Desenvolvimento da lógica para as rotas do servidor back end enviarem e receberem as informações solicitadas pelo front end da aplicação. (Faço/uso com autonomia)
+- ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat) **MySQL**: Tratamento das queries do banco de dados para otimizar os dados requisitados pela aplicação. (Faço/uso com autonomia)
+- ![JWT](https://img.shields.io/badge/-JWT-000000?logo=json-web-tokens&logoColor=white&style=flat) **JWT**: Manutenção dos códigos para autenticação do usuário e durabilidade do token de acesso para a sessão. (Faço/uso com autonomia)
 
 ---
 
