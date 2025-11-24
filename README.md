@@ -71,10 +71,10 @@ Atuei como **desenvolvedor**, contribuindo tanto para o frontend quanto para o b
 
 ### ![Hard Skills Icon](https://img.shields.io/badge/-Hard%20Skills-2ECC71?style=flat&logo=skillshare&logoColor=white)
 
-- ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat) **Node.js**: Desenvolvimento das rotas de comunicação com o frontend e comunicação com o banco de dados. 
-- ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat) **MySQL**: Modelagem de queries para otimização dos dados enviados do servidor back end ao front end.
-- ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&style=flat) **Vite+React**: Desenvolvimento da lógica para envio de requisições ao back end e desenvolvimento de como as informações requisitadas retornariam para a visualização do usuário.
-- ![NodeMailer](https://img.shields.io/badge/-NodeMailer-52C41A?logo=mailchimp&logoColor=white&style=flat) **NodeMailer**: Correção de erros de envio ao final do processo de agendamento de novas atividades onde seriam disparados emails aos usuários relacionados à tal atividade..
+- ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat) **Node.js**: Desenvolvimento das rotas de comunicação com o frontend e comunicação com o banco de dados. (Faço/uso com autonomia)
+- ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat) **MySQL**: Modelagem de queries para otimização dos dados enviados do servidor back end ao front end. (Faço/uso com autonomia)
+- ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&style=flat) **Vite+React**: Desenvolvimento da lógica para envio de requisições ao back end e desenvolvimento de como as informações requisitadas retornariam para a visualização do usuário. (Faço/uso com autonomia)
+- ![NodeMailer](https://img.shields.io/badge/-NodeMailer-52C41A?logo=mailchimp&logoColor=white&style=flat) **NodeMailer**: Correção de erros de envio ao final do processo de agendamento de novas atividades onde seriam disparados emails aos usuários relacionados à tal atividade. (Faço/uso com autonomia)
 
 ---
 
