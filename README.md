@@ -1,24 +1,24 @@
-### Quarto Semestre (2024-1)
+### **Quinto Semestre (2024-2)**
 
-# Sistema Web para Gerenciamento de Salas e Agendamentos
+# ClimaMonitor – Monitoramento Inteligente de Condições Climáticas para Produtores Rurais
 
 ## Descrição do Projeto
-**Semestre:** Quarto Semestre – 2024-1  
-**Empresa Parceira:** **[SIAT]**   
-**Área de Atuação:** A empresa atua na integração de sistemas tecnológicos para os setores de defesa e aeroespacial, com foco em armamentos inteligentes, radares, sensores e sistemas aviônicos.   
-**Professor responsável:** **Juliana Pasquini**
+**Semestre:** Quinto Semestre – 2024-2  
+**Empresa Parceira:** **Kersys**   
+**Área de Atuação:** A Kersys é especializada em soluções tecnológicas para gestão florestal e agrícola, oferecendo sistemas informatizados e móveis para otimização de recursos e aumento da competitividade no setor.      
+**Professor responsável:** **Jean Carlos**
 
 ---
 
 ### ![Problem Icon](https://img.shields.io/badge/-Problema-E74C3C?style=flat&logo=issue-tracking&logoColor=white)
 
-A empresa **SIAT** enfrentava dificuldades na gestão do uso de suas salas de reunião, o que resultava em conflitos de agendamento e falhas na comunicação entre os usuários e administradores. O objetivo do projeto era criar um sistema centralizado e eficiente para o agendamento e gerenciamento das salas, integrando uma interface intuitiva e um backend robusto que garantisse a escalabilidade e confiabilidade do sistema.
+O problema que motivou o desenvolvimento do **ClimaMonitor** foi a falta de uma plataforma eficiente de monitoramento climático para produtores rurais, dificultando o acompanhamento preciso das condições climáticas, especialmente em regiões com baixa conectividade. Isso prejudica o planejamento agrícola, como o controle de irrigação e a escolha de plantio e colheita, podendo resultar em perdas financeiras significativas.
 
 ---
 
 ### ![Solution Icon](https://img.shields.io/badge/-Solução-27AE60?style=flat&logo=solution&logoColor=white)
 
-A equipe desenvolveu uma **plataforma web** utilizando **Next.js** e **Vite** para o frontend, com foco em desempenho e usabilidade. **Node.js** e **MySQL** foram utilizados no backend para gerenciar o banco de dados e as APIs RESTful. A interface foi criada com **Material UI** para garantir um design moderno e responsivo. Além disso, foram implementadas funcionalidades de autenticação com **JWT** e envio de notificações de reserva utilizando **NodeMailer**. O sistema também conta com gráficos de acompanhamento de uso das salas, integrados com **Chart.js**.
+O **ClimaMonitor** é um aplicativo desenvolvido para dispositivos móveis utilizando **React Native** para garantir a compatibilidade com smartphones e tablets. O backend é implementado utilizando **Node.js** com **MongoDB** para persistência de dados. A integração com fontes externas de dados climáticos será realizada via API, com a utilização do **Power API** da NASA para obter as informações de temperatura e pluviometria. O sistema contará com gráficos interativos de monitoramento climático usando **Chart.js** e notificações de alertas utilizando **Push Notifications** para garantir que os usuários recebam atualizações em tempo real.
 
 ---
 
@@ -26,20 +26,14 @@ A equipe desenvolveu uma **plataforma web** utilizando **Next.js** e **Vite** pa
 #### **[Demonstração do projeto em execução]**
 
 <p align="center">
-  <img src="https://github.com/Equipe-FULLSTACK/API-4/assets/112169854/46f04ee0-016f-4506-a19f-46cf2ee9afcf" alt="Página de Login" width="800" height="400">
+  <img src="https://raw.githubusercontent.com/tsilvadev89/Portfolio/refs/heads/API5S/img/API5S.jpg" alt="Projeto CLIMA MONITOR" width="800" height="400">
   <br>
-  <details>
-   <summary>Mostrar imagens do sistema</summary>
-   <img src="https://github.com/Equipe-FULLSTACK/API-4/assets/112169854/0652e4a0-8401-4781-a275-8791dd6df4e8" alt="Tela de Usuários" width="800" height="400">
-   <br>
-   <img src="https://github.com/Equipe-FULLSTACK/API-4/assets/112169854/af972abc-fa51-4e6d-9d48-9312a2426a3a" alt="Gerenciamento de Usuários" width="800" height="400">
-   </details>
 </p>
 
 ---
 
 ### **Link do Repositório Git**  
-<a href="https://github.com/Equipe-FULLSTACK/API-4" target="_blank">
+<a href="https://github.com/FATEC-FULLSTACK/BACKEND-API5S" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square" alt="GitHub link">
 </a>
 
@@ -47,13 +41,12 @@ A equipe desenvolveu uma **plataforma web** utilizando **Next.js** e **Vite** pa
 
 ### ![Tech Icon](https://img.shields.io/badge/-Tecnologias%20Utilizadas-3498DB?style=flat&logo=stackshare&logoColor=white)
 
-- ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat) **Next.js:** Framework utilizado para o desenvolvimento do frontend com foco em SSR (Server-Side Rendering) e SSG (Static Site Generation).
-- ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&style=flat) **Vite:** Utilizado para melhorar o desempenho no desenvolvimento frontend.
-- ![Material UI](https://img.shields.io/badge/-Material--UI-0081CB?logo=material-ui&logoColor=white&style=flat) **Material UI:** Framework utilizado para criar uma interface de usuário moderna e responsiva.
-- ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat) **Node.js:** Backend utilizando **Express** para criar APIs RESTful e lógica de negócio.
-- ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat) **MySQL:** Banco de dados relacional utilizado para armazenar informações sobre os usuários, salas e agendamentos.
-- ![Chart.js](https://img.shields.io/badge/-Chart.js-FF6384?logo=chart.js&logoColor=white&style=flat) **Chart.js:** Utilizado para gerar gráficos de acompanhamento de uso das salas.
-- ![NodeMailer](https://img.shields.io/badge/-NodeMailer-52C41A?logo=mailchimp&logoColor=white&style=flat) **NodeMailer:** Utilizado para envio de notificações de reserva via e-mail.
+- ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=white&style=flat) **React Native:** Framework utilizado para o desenvolvimento de aplicativos móveis, garantindo compatibilidade com Android e iOS.
+- ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat) **Node.js:** Backend para gerenciamento da API e manipulação de dados em tempo real.
+- ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat) **MongoDB:** Banco de dados NoSQL utilizado para persistência dos dados climáticos.
+- ![Chart.js](https://img.shields.io/badge/-Chart.js-FF6384?logo=chart.js&logoColor=white&style=flat) **Chart.js:** Biblioteca para a criação de gráficos interativos com os dados climáticos.
+- ![Push Notifications](https://img.shields.io/badge/-Push%20Notifications-00C853?logo=android&logoColor=white&style=flat) **Push Notifications:** Sistema de notificação para alertar os usuários sobre eventos climáticos críticos.
+- ![API Power](https://img.shields.io/badge/-Power%20API-4C9ED9?logo=nasa&logoColor=white&style=flat) **Power API:** API da NASA utilizada para obter dados climáticos precisos e em tempo real.
 
 ---
 
@@ -61,20 +54,25 @@ A equipe desenvolveu uma **plataforma web** utilizando **Next.js** e **Vite** pa
 
 Atuei como **desenvolvedor**, contribuindo tanto para o frontend quanto para o backend. Minhas principais contribuições incluem:
 
-- Integração dos sistemas front end e back end
-- Desenvolvimento das rotas no servidor back end para comunicação com o front end da aplicação utilizando **Node.js**.
-- Criação da lógica de envio de requisições pelo front end da aplicação para o servidor back end utilizando **Vite+React**.
-- Desenvolvimento e configuração de gráficos interativos com **Chart.js**.
-- Manutenção do sistema de disparo de e-mails utilizando **NodeMailer**.
+- Desenvolvimento da interface mobile utilizando **React Native**.
+- Desenvolvimento do backend utilizando **Node.js**.
+- Implementação da API de mapas.
+- Desenvolvimento da lógica de envio de requisições à API de mapa e tratamento dos dados JSON retornados para a aplicação.
+- Desenvolvimento da interface gráfica para os dados relacionados a temperatura, humidade e precipitação para os locais selecionados.
+- Desenvolvimento da lógica para o armazenamento dos locais salvos pelo usuário no banco de dados MongoDB.
+- Desenvolvimento do comportamento da aplicação em relação às buscas do usuário.
+- Integração do front end e back end.
+- Manutenção do front end e back end.
 
 ---
 
 ### ![Hard Skills Icon](https://img.shields.io/badge/-Hard%20Skills-2ECC71?style=flat&logo=skillshare&logoColor=white)
 
-- ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat) **Node.js**: Desenvolvimento das rotas de comunicação com o frontend e comunicação com o banco de dados. 
-- ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat) **MySQL**: Modelagem de queries para otimização dos dados enviados do servidor back end ao front end.
-- ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&style=flat) **Vite+React**: Desenvolvimento da lógica para envio de requisições ao back end e desenvolvimento de como as informações requisitadas retornariam para a visualização do usuário.
-- ![NodeMailer](https://img.shields.io/badge/-NodeMailer-52C41A?logo=mailchimp&logoColor=white&style=flat) **NodeMailer**: Correção de erros de envio ao final do processo de agendamento de novas atividades onde seriam disparados emails aos usuários relacionados à tal atividade..
+- ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=white&style=flat) **React Native:** Desenvolvimento de aplicativos móveis. (Faço/uso com autonomia)
+- ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat) **Node.js:** Desenvolvimento do backend e APIs. (Faço/uso com autonomia)
+- ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat) **MongoDB:** Implementação de banco de dados NoSQL. (Faço/uso com autonomia)
+- ![Chart.js](https://img.shields.io/badge/-Chart.js-FF6384?logo=chart.js&logoColor=white&style=flat) **Chart.js:** Criação de gráficos para visualização dos dados climáticos. (Faço/uso com autonomia)
+- ![Push Notifications](https://img.shields.io/badge/-Push%20Notifications-00C853?logo=android&logoColor=white&style=flat) **Push Notifications:** Implementação de notificações em tempo real. (Faço/uso com autonomia)
 
 ---
 
@@ -84,5 +82,6 @@ Atuei como **desenvolvedor**, contribuindo tanto para o frontend quanto para o b
 - **Resolução de Problemas:** Auxiliei e também resolvi individualmente problemas que surgiram ao longo do projeto nos campos do front end e back end.
 - **Aprendizado Dinâmico:** Como responsável pela integração entre o front end e back end da aplicação, tive de aprender ao longo do projeto como funcionam os frameworks utilizados na API e como eles se conectariam entre si.
 - **Leitura e Compreensão de Código:** Como responsável pela integração entre o front end e backend. Tive de acompanhar e compreender os códigos, a lógica e o raciocínio por tras do que foi feito por cada um dos integrantes do grupo, para que ao final, eu pudesse fazer os ajustes necessários para que ambas as partes da aplicação se conectassem.
+- **Integração com API's e sistemas de terceiros:** Fui responsável pela integração da api de mapas, onde implementei três API's diferentes para teste, e de acordo com o resultado de cada uma, a equipe decidiu a melhor para o uso no projeto.
 
 ---
