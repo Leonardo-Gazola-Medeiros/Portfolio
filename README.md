@@ -1,9 +1,5 @@
 # **Leonardo Gazola Medeiros**
 
-<p align="center">
-  <img src="" alt="Foto do Perfil" width="200" height="200" style="border-radius:50%;">
-</p>
-
 ## **Desenvolvedor**
 
 ### **Introdução**
