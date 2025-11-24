@@ -61,6 +61,7 @@ Atuei como **desenvolvedor**, contribuindo tanto para o frontend quanto para o b
 - Desenvolvimento da interface gráfica para os dados relacionados a temperatura, humidade e precipitação para os locais selecionados.
 - Desenvolvimento da lógica para o armazenamento dos locais salvos pelo usuário no banco de dados MongoDB.
 - Desenvolvimento do comportamento da aplicação em relação às buscas do usuário.
+- Configuração do sistema de envio de emails para o usuário em caso de alertas pre definidos pelo próprio usuário.
 - Integração do front end e back end.
 - Manutenção do front end e back end.
 
