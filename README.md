@@ -44,11 +44,11 @@ A equipe desenvolveu um **software** em **Java**, utilizando o **Spring Boot** p
 
 ### ![Tecnologias Utilizadas](https://img.shields.io/badge/-Tecnologias%20Utilizadas-3498DB?style=flat&logo=stackshare&logoColor=white)
 
-- ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat) **Java**: Linguagem principal utilizada para o desenvolvimento do software. 
-- ![Swing](https://img.shields.io/badge/-Java%20Swing-6DB33F?) **Java Swing**: Framework para construção da interface gráfica da aplicação.
-- ![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?logo=hibernate&logoColor=white&style=flat) **Hibernate**: ORM utilizado para gerenciar a persistência de dados no banco de dados.
-- ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat) **MySQL**: Banco de dados relacional utilizado para armazenar informações sobre aulas, alunos e avaliações.
-- ![Chart.js](https://img.shields.io/badge/-Chart.js-FF6384?logo=chart.js&logoColor=white&style=flat) **Chart.js**: Biblioteca utilizada para a criação de gráficos de desempenho das turmas.
+- ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat) **Java**: Linguagem principal utilizada para o desenvolvimento do software. (Faço/uso com autonomia)
+- ![Swing](https://img.shields.io/badge/-Java%20Swing-6DB33F?) **Java Swing**: Framework para construção da interface gráfica da aplicação. (Faço/uso com ajuda)
+- ![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?logo=hibernate&logoColor=white&style=flat) **Hibernate**: ORM utilizado para gerenciar a persistência de dados no banco de dados. (Faço/uso com autonomia)
+- ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat) **MySQL**: Banco de dados relacional utilizado para armazenar informações sobre aulas, alunos e avaliações. (Faço/uso com autonomia)
+- ![Chart.js](https://img.shields.io/badge/-Chart.js-FF6384?logo=chart.js&logoColor=white&style=flat) **Chart.js**: Biblioteca utilizada para a criação de gráficos de desempenho das turmas. (Faço/uso com ajuda)
 
 ---
 
