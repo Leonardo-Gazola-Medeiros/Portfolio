@@ -1,81 +1,77 @@
-
-### Primeiro Semestre (2022-2)
-
-# Aplicação Web – Suporte e Ordem de Serviço de Laboratório de Informática da Fatec São José
+# Projeto API 2º Semestre: Controle de Informações em Sala de Aula
 
 ## Descrição do Projeto
-**Semestre:** Segundo Semestre – 2022-2  
-**Empresa Parceira:** Fatec São José dos Campos – Professor responsável: **[ANTONIO EGYDIO SAO THIAGO GRACA]**
+**Semestre:** Segundo Semestre – 2023-1  
+**Empresa Parceira:** Fatec São José dos Campos – Professor responsável: **Giuliano Bertoti**
 
 ---
 
-### ![Problem Icon](https://img.shields.io/badge/-Problema-E74C3C?style=flat&logo=issue-tracking&logoColor=white)
+### ![Problema](https://img.shields.io/badge/-Problema-E74C3C?style=flat&logo=issue-tracking&logoColor=white)
 
-A Fatec precisava de um processo de controle de ordens de serviço do laboratório de informática da Fatec era manual e pouco eficiente, gerando atrasos no diagnóstico de defeitos em equipamentos. A falta de um sistema centralizado dificultava a comunicação entre os técnicos e o rastreamento do status dos reparos.
-
----
-
-### ![Solution Icon](https://img.shields.io/badge/-Solução-27AE60?style=flat&logo=solution&logoColor=white)
-
-A equipe desenvolveu uma **aplicação web** usando **Flask** para o backend, **MySQL** como banco de dados, **HTML** e **CSS** para o frontend, e **Bootstrap** para tornar a interface responsiva. A aplicação permite que os usuários registrem defeitos, visualizem um mapa do laboratório com a localização dos equipamentos e façam atualizações de layout e nomenclatura dos computadores. O sistema é intuitivo, com uma interface limpa e funcional, projetada para evitar sobrecarga de informações.
+O método manual utilizado pela Fatec para gerenciar o desempenho acadêmico das turmas era ineficaz e propenso a erros. Isso resultava em dificuldades para coletar, armazenar e analisar os dados de forma eficiente, comprometendo a tomada de decisões educacionais baseadas em dados.
 
 ---
 
-### **Vídeo da Aplicação**
-#### **[Demonstração do projeto em execução]**
+### ![Solução](https://img.shields.io/badge/-Solução-27AE60?style=flat&logo=solution&logoColor=white)
+
+A equipe desenvolveu um **software** em **Java**, utilizando o **Spring Boot** para o backend e o **Hibernate** como ORM para gerenciar a persistência dos dados em um banco **MySQL**. A aplicação oferece funcionalidades de cadastro, edição e consulta de dados, além de fornecer gráficos de desempenho das turmas, criados com o **Chart.js**.
+
+---
+
+### **Imagens do Software**
 
 <p align="center">
-  <p>
-    <img src="https://raw.githubusercontent.com/tsilvadev89/API1S/refs/heads/main/Imagens/API_3_Sprint_TerramEtVerum.gif" alt="Projeto20221S " width="800" height="400">
-  </p>
+  <img src="https://github.com/Equipe-FULLSTACK/API-2/raw/main/readme/Pag_Principal.png" alt="Página Principal" width="800" height="400">
+  <br>
+  <details>
+    <summary>Clique para ver mais imagens</summary>
+      <img src="https://github.com/Equipe-FULLSTACK/API-2/raw/main/readme/layout_aula_tarefas.png" alt="Layout de Aula e Tarefas" width="800" height="400">
+      <br>
+      <img src="https://github.com/Equipe-FULLSTACK/API-2/raw/main/readme/Pag_Estatisticas.png" alt="Página de Estatísticas" width="800" height="400">
+      <br>
+      <img src="https://github.com/Equipe-FULLSTACK/API-2/raw/main/readme/estilos.gif" alt="Animação de Estilos" width="800" height="400">
+  </details>
 </p>
-
-#### **[Demonstração do projeto video hospedado no YouTube]**
-
-<a href="https://www.youtube.com/watch?v=wi2l6Axu2Rk" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=flat-square" alt="YouTube link">
-</a>
 
 ---
 
 ### **Link do Repositório Git**  
-<a href="https://github.com/seu-usuario/projeto-sos" target="_blank">
+<a href="https://github.com/Equipe-FULLSTACK/API-2" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square" alt="GitHub link">
 </a>
 
 ---
 
-### ![Tech Icon](https://img.shields.io/badge/-Tecnologias%20Utilizadas-3498DB?style=flat&logo=stackshare&logoColor=white)
+### ![Tecnologias Utilizadas](https://img.shields.io/badge/-Tecnologias%20Utilizadas-3498DB?style=flat&logo=stackshare&logoColor=white)
 
-- ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat) **Python:** Utilizado para o backend com o framework Flask.
-- ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat) **Flask:** Framework utilizado para o backend e gerenciamento de rotas.
-- ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat) **MySQL:** Banco de dados relacional para armazenamento das informações das ordens de serviço e layout dos equipamentos.
-- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat) **HTML5**: Estrutura das páginas web.
-- ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat) **CSS3**: Estilização das páginas web.
-- ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=flat) **Bootstrap**: Framework para design responsivo.
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat) **JavaScript**: Aplicado para criar interações dinâmicas no mapa de localização e na interface de controle.
+- ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat) **Java**: Linguagem principal utilizada para o desenvolvimento do software. 
+- ![Swing](https://img.shields.io/badge/-Java%20Swing-6DB33F?) **Java Swing**: Framework para construção da interface gráfica da aplicação.
+- ![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?logo=hibernate&logoColor=white&style=flat) **Hibernate**: ORM utilizado para gerenciar a persistência de dados no banco de dados.
+- ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat) **MySQL**: Banco de dados relacional utilizado para armazenar informações sobre aulas, alunos e avaliações.
+- ![Chart.js](https://img.shields.io/badge/-Chart.js-FF6384?logo=chart.js&logoColor=white&style=flat) **Chart.js**: Biblioteca utilizada para a criação de gráficos de desempenho das turmas.
 
 ---
 
+### ![Contribuições Pessoais](https://img.shields.io/badge/-Contribuições%20Pessoais-F39C12?style=flat&logo=contribution&logoColor=white)
 
-### ![Contribution Icon](https://img.shields.io/badge/-Contribuições%20Pessoais-F39C12?style=flat&logo=contribution&logoColor=white)
+Atuei como **Scrum Master** da equipe. Sendo responsável por:
 
-Atuei como **Desenvolvedor**, Trabalhando na integração entre o front end e back end da aplicação, garantido a funcionabilidade da aplicação e responsividade para o uso do usuário final.  
-
----
-
-### ![Hard Skills Icon](https://img.shields.io/badge/-Hard%20Skills-2ECC71?style=flat&logo=skillshare&logoColor=white)
-
-- ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat) **Python**: Fiz a lógica do sistema responsável pela comunicação entre o framework atuante no back end(Flask) e o front end(HTML / JavaScript).
-- ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat) **Flask**: Configuração das rotas para as requisições no backend e disponibilidade das informações para a pagina front end da aplicação.
-- ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat) **MySQL**: Ajuste da lógica do banco de dados para atender as requisições feitas pelo front end da aplicação.
-- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat) **HTML/CSS/Bootstrap**: Fiz os ajustes finais para o design do front end da aplicação acomodar os dados vindos pelo servidor do banco de dados.
-- ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat) **Git**: Tive parte no versionamento dos códigos e auxilio em merges de branchs.
+- Delegar Tasks de cada membro da equipe nas Sprints do projeto.
+- Garantir o cumprimento dos prazos de entrega.
+- Atualizar o repositório **Github** do projeto atualizado e padronizado .
+- Auxiliar o desenvolvimento das atividades em caso de duvidas ou necessidade de ajuda.
 
 ---
 
-### ![Soft Skills Icon](https://img.shields.io/badge/-Soft%20Skills-9B59B6?style=flat&logo=meetup&logoColor=white)
+### ![Hard Skills](https://img.shields.io/badge/-Hard%20Skills-2ECC71?style=flat&logo=skillshare&logoColor=white)
 
-- **Resolução de Problemas:** Ao longo do projeto, foi necessário pensar em maneiras à como atender as demandas requeridas pelo projeto.
-- **Trabalho em Equipe e Divisão de Tarefas:** Ao longo das sprints, foi necessário delegar tarefas à cada integrante do grupo, e desenvolver a aplicação, de modo que, ao final, todas as partes pudessem ser integradas sem problemas.
+- ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat) **Java**: Auxílio e supervisão do desenvolvimento da lógica do projeto.
+- ![Swing](https://img.shields.io/badge/-Java%20Swing-6DB33F?) **Java Swing**: Auxílio na modelagem da interface gráfica.
+- ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat) **Git**: Controle de versão do projeto e colaboração com a equipe utilizando repositório Git.
+
 ---
+
+### ![Soft Skills](https://img.shields.io/badge/-Soft%20Skills-9B59B6?style=flat&logo=meetup&logoColor=white)
+
+- **Delegação de Tarefas e Gerenciamento de Equipes:** Como Scrum Master, tive de alocar tasks para cada integrante da equipe e delegar atividades para sprints, de modo que, cada um da equipe pudesse trabalhar em pleno potencial e não ser sobrecarregado. E ainda conseguir manter em dia os prazos de entregas e qualidade do produto final.
+- **Aprendizado Dinâmico:** Ao longo das sprints, para me manter a par das atividades, tive de aprender parte da função de todos os integrantes, me mantendo próximo à eles durante os ciclos de desenvolvimento. Estando a par de todo o projeto.
