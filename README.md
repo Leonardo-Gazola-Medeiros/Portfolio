@@ -73,5 +73,4 @@ Atuei como **Scrum Master** da equipe. Sendo responsável por:
 
 ### ![Soft Skills](https://img.shields.io/badge/-Soft%20Skills-9B59B6?style=flat&logo=meetup&logoColor=white)
 
-- **Delegação de Tarefas e Gerenciamento de Equipes:** Como Scrum Master, tive de alocar tasks para cada integrante da equipe e delegar atividades para sprints, de modo que, cada um da equipe pudesse trabalhar em pleno potencial e não ser sobrecarregado. E ainda conseguir manter em dia os prazos de entregas e qualidade do produto final.
-- **Aprendizado Dinâmico:** Ao longo das sprints, para me manter a par das atividades, tive de aprender parte da função de todos os integrantes, me mantendo próximo à eles durante os ciclos de desenvolvimento. Estando a par de todo o projeto.
+- **Aprendizado Dinâmico:** Ao longo das sprints, para me manter a par das atividades, tive de aprender parte da função de todos os integrantes, me mantendo próximo à eles durante os ciclos de desenvolvimento. Estando a par de todo o projeto. E sempre que eu percebia que alguem do grupo precisava de ajuda, eu me dispunha à auxilia-lo.
