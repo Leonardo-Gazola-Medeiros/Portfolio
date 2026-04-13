@@ -91,9 +91,6 @@ Atuei como **Desenvolvedor**, contribuindo tanto para o frontend quanto para o b
 
 ### ![Soft Skills Icon](https://img.shields.io/badge/-Soft%20Skills-9B59B6?style=flat&logo=meetup&logoColor=white)
 
-- **Comunicação e Colaboração:** Como responsável pela integração e a comunicação entre o front end e o back end da aplicação, tive de me manter em contato constante com os integrantes do grupo para me manter a par das atualizações e atividades realizadas por cada uma das partes.
-- **Resolução de Problemas:** Auxiliei e também resolvi individualmente problemas que surgiram ao longo do projeto nos campos do front end e back end.
-- **Aprendizado Dinâmico:** Como responsável pela integração entre o front end e back end da aplicação, tive de aprender ao longo do projeto como funcionam os frameworks utilizados na API e como eles se conectariam entre si.
-- **Leitura e Compreensão de Código:** Como responsável pela integração entre o front end e backend. Tive de acompanhar e compreender os códigos, a lógica e o raciocínio por tras do que foi feito por cada um dos integrantes do grupo, para que ao final, eu pudesse fazer os ajustes necessários para que ambas as partes da aplicação se conectassem.
+- **Trabalho em Equipe e Aprendizado em Conjunto:** Durante esta API, como eu estava responsável pela integração entre os sistemas do front end e backend do trabalho, sempre me mantive trabalhando ao lado dos outros membros da equipe para me manter a par do desenvolvimento de ambas as frentes do projeto. Com isto, também auxiliei membros do grupo em diversas ocasiões para explicar como os sistemas que os outros membros estavam desenvolvendo funcionavam para mante-los atualizados e informados do projeto.
 
 ---
