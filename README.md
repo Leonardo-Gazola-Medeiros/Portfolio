@@ -76,6 +76,4 @@ Atuei como **Desenvolvedor**, Trabalhando na integração entre o front end e ba
 
 ### ![Soft Skills Icon](https://img.shields.io/badge/-Soft%20Skills-9B59B6?style=flat&logo=meetup&logoColor=white)
 
-- **Resolução de Problemas:** Ao longo do projeto, foi necessário pensar em maneiras à como atender as demandas requeridas pelo projeto.
-- **Trabalho em Equipe e Divisão de Tarefas:** Ao longo das sprints, foi necessário delegar tarefas à cada integrante do grupo, e desenvolver a aplicação, de modo que, ao final, todas as partes pudessem ser integradas sem problemas.
----
+- **Resolução de Problemas:** Durante o correr da API, como muitos da equipe ainda se encontravam defasados em capacidades de programação, eu trabalhei bastante para que houvesse a integração própria dos membros e aprendizado em conjunto dos temas e desenvolvimento das habilidades da equipe.
